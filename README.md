@@ -12,12 +12,7 @@
   <img width="680" height="680" src="biolive.gif">
 </p>
 
-<p align="center">
-  <img width="270" height="540" src="1.jpg">
-</p><p align="center"><img width="270" height="540" src="2.jpg"></p>
-<p align="center"><img width="270" height="540" src="3.jpg"></p>
-
-  
+<p align="center"><img width="270" height="540" src="1.jpg"></p><p align="center"><img width="270" height="540" src="2.jpg"></p><p align="center"><img width="270" height="540" src="3.jpg"></p>
 
 
 
