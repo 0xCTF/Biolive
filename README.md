@@ -13,12 +13,11 @@
 </p>
 
 <p align="center">
-  <img width="480" height="620" src="1.jpg">
-</p><p align="center">
-  <img width="480" height="620" src="2.jpg">
-</p><p align="center">
-  <img width="480" height="620" src="3.jpg">
-</p>
+  <img width="270" height="540" src="1.jpg">
+</p><p align="center"><img width="270" height="540" src="2.jpg"></p>
+<p align="center"><img width="270" height="540" src="3.jpg"></p>
+
+  
 
 
 
