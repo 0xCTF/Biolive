@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img width="475" height="110" src="biolive.gif">
+  <img width="680" height="680" src="biolive.gif">
 </p>
 
 
@@ -17,35 +17,30 @@
 
 
 
-**Find My Results** is a JAVA software based on selenium framework. This project provides the needed information to Tunisian students ![](/resources/images/tn.png) by letting them navigate easily between the different categories that gather data from couple websites.
+**Biolive** is a demo android app that allow olive press to send a request to **Biolive company** asking to get rid of the rest of rubbish.
 
-**Find My Results** allows you to :
+**Biolive** allows you to :
 
-* See your student card 
-* Check your payments
-* Verify your personel informations
-* See the results
-* Check your payment receipts
-* Check your university scholarship (*only OOUS for now*)
+* Send a request to the nearest Biolive company
+* Calculte the rubbish weight
+* Checking buyers
+* Checking Sellers
+* Checking products
 
-## Purpose
-This software facilitate the access to the information for the students who faced a difficulty to use the official website(s) due to a several problems discovered recently.
-
-## Known Issues
-* Very slow due to an incorrect loop
-* If the student doesn't have a picture on the student card, the software will not work
 
 ## Author and contributors
-[*Mohamed Jawadi*](https://facebook.com/0xmohamed) (*Creator, developer*)
+[*Mohamed Jawadi*](https://facebook.com/0xmohamed) (*Designer*)
+[*Yessine Kchaou*](https://www.facebook.com/nisay.james) (*Developer*)
+[*karim Safagine*](https://www.facebook.com/karim.safagine) (*Developer*)
 
 ## Contributing
 
 #### Fix/Edit Content
 
-If you see an error or a place where content should be updated or improved, just fork this repository to your account, make the change you'd like and then submit a pull request. If you're not able to make the change, file an [issue](https://github.com/0xCTF/FindMyResults/issues).
+If you see an error or a place where content should be updated or improved, just fork this repository to your account, make the change you'd like and then submit a pull request. If you're not able to make the change, file an [issue](https://github.com/0xCTF/Biolive/issues).
 
 
 ## LICENSE
-> © [MIT](https://github.com/0xCTF/FindMyResults/blob/master/LICENSE) | 2019, 0xCTF/FindMyResults
+> © [MIT](https://github.com/0xCTF/Biolive/blob/master/LICENSE) | 2020, 0xCTF/Biolive
 
 
