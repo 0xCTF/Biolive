@@ -14,7 +14,7 @@
 
 <img width="270" height="540" src="1.jpg"><img width="270" height="540" src="2.jpg"><img width="270" height="540" src="3.jpg">
 
-<img width="270" height="540" src="4.png"><img width="270" height="540" src="5.png"><img width="270" height="540" src="6.png"><img width="270" height="540" src="7.png">
+<img width="270" height="540" src="4.png"><img width="270" height="540" src="5.png"><img width="270" height="540" src="6.png"><img width="270" align="centre" height="540" src="7.png">
 
 
 **Biolive** is a demo android app that allow olive press to send a request to **Biolive company** asking to get rid of the rest of rubbish.
