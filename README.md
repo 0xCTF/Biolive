@@ -29,11 +29,7 @@
 
 
 ## Author and contributors
-[*Mohamed Jawadi*](https://facebook.com/0xmohamed) (*Designer*)
-
-[*Yessine Kchaou*](https://www.facebook.com/nisay.james) (*Developer*)
-
-[*karim Safagine*](https://www.facebook.com/karim.safagine) (*Developer*)
+[*Mohamed Jawadi*](https://facebook.com/0xmohamed)
 
 ## Contributing
 
